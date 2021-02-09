@@ -2,13 +2,13 @@
 
 ### 6.824 是一门什么课
 
-6.824 是MIT开设的一门讲解分布式系统的课程 . 课程内容包括Golang语言的学习、分布式系统研究的动机、一致性协议算法、著名分布式系统软件论文讲解和一致性算法实现实验 . 这门课是一门实践性质比较强的课程 . 
+6.824 是MIT开设的一门讲解分布式系统的课程 . 课程内容包括Golang语言的学习、分布式系统研究的动机、一致性协议算法、著名分布式系统软件论文讲解和一致性算法实现实验 . 这门课是一门实践性质比较强的课程 .
 
-6.824 要求有一定的基础 , 先修课程包括6.033\(Computer System Engineering\)和6.004\(Computation Structures\) , 即要求学生对操作系统 , 计算机网络 , 计算机体系结构有一定的了解 . 
+6.824 要求有一定的基础 , 先修课程包括6.033\(Computer System Engineering\)和6.004\(Computation Structures\) , 即要求学生对操作系统 , 计算机网络 , 计算机体系结构有一定的了解 .
 
-> 6.033 - http://web.mit.edu/6.033/www/
+> 6.033 - [http://web.mit.edu/6.033/www/](http://web.mit.edu/6.033/www/)
 >
-> 6.004 - https://6004.mit.edu/web/spring21/
+> 6.004 - [https://6004.mit.edu/web/spring21/](https://6004.mit.edu/web/spring21/)
 
 #### 6.824 的优点
 
@@ -32,17 +32,21 @@
 
 > 课程主要以2020为主 , 新的课程2021年2月16日开课 , 课程内容与2020年基本一致 , 多了一节Guest lecture , 由Golang的主要贡献者之一Russ Cox讲Go 语言 .
 
-课程主页 - https://pdos.csail.mit.edu/6.824/schedule.html
+课程主页 - [https://pdos.csail.mit.edu/6.824/schedule.html](https://pdos.csail.mit.edu/6.824/schedule.html)
 
-机翻全部课程 - https://www.bilibili.com/video/BV1R7411t71W
+机翻全部课程 - [https://www.bilibili.com/video/BV1R7411t71W](https://www.bilibili.com/video/BV1R7411t71W)
 
-* 字幕组Github - https://github.com/ivanallen/thor
+* 字幕组Github - [https://github.com/ivanallen/thor](https://github.com/ivanallen/thor)
 
-翻译课程 - https://www.bilibili.com/video/av91748150
+翻译课程 - [https://www.bilibili.com/video/av91748150](https://www.bilibili.com/video/av91748150)
 
-课程中文翻译 - https://zhuanlan.zhihu.com/c\_1273718607160393728
+课程中文翻译 - [https://zhuanlan.zhihu.com/c\_1273718607160393728](https://zhuanlan.zhihu.com/c_1273718607160393728)
 
-* Gitbook版 - https://mit-public-courses-cn-translatio.gitbook.io/mit6-824/
+* Gitbook版 - [https://mit-public-courses-cn-translatio.gitbook.io/mit6-824/](https://mit-public-courses-cn-translatio.gitbook.io/mit6-824/)
 
-相关开源书DDIA - https://github.com/Vonng/ddia
+学生指南 - https://thesquareplanet.com/blog/students-guide-to-raft/
+
+* 掘金翻译版 - https://juejin.cn/post/6865538652961767431
+
+相关开源书DDIA - [https://github.com/Vonng/ddia](https://github.com/Vonng/ddia)
 

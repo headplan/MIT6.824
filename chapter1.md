@@ -74,17 +74,23 @@ Sanjay Ghemawat, Howard Gobioff, and Shun-Tak Leung Google 03SOSP
 
 **Big Table**
 
-http://arthurchiao.art/blog/google-bigtable-zh/
+[http://arthurchiao.art/blog/google-bigtable-zh/](http://arthurchiao.art/blog/google-bigtable-zh/)
 
 #### Lamport论文
 
-logical clock
+**logical clock**
 
-paxos
+http://lamport.azurewebsites.net/pubs/time-clocks.pdf
 
-multi paxos
+**paxos**
 
-raft
+http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf
 
+**multi paxos**
 
+**raft**
+
+https://ramcloud.atlassian.net/wiki/download/attachments/6586375/raft.pdf
+
+https://github.com/maemual/raft-zh\_cn
 

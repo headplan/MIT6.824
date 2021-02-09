@@ -80,17 +80,17 @@ Sanjay Ghemawat, Howard Gobioff, and Shun-Tak Leung Google 03SOSP
 
 **logical clock**
 
-http://lamport.azurewebsites.net/pubs/time-clocks.pdf
+[http://lamport.azurewebsites.net/pubs/time-clocks.pdf](http://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 
-**paxos**
+**paxos & multi paxos**
 
-http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf
+[http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)
 
-**multi paxos**
+https://juejin.cn/post/6844903683788898312
 
 **raft**
 
-https://ramcloud.atlassian.net/wiki/download/attachments/6586375/raft.pdf
+[https://ramcloud.atlassian.net/wiki/download/attachments/6586375/raft.pdf](https://ramcloud.atlassian.net/wiki/download/attachments/6586375/raft.pdf)
 
-https://github.com/maemual/raft-zh\_cn
+[https://github.com/maemual/raft-zh\_cn](https://github.com/maemual/raft-zh_cn)
 

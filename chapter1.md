@@ -52,15 +52,15 @@
 
 #### 其他文献
 
-Google老三篇
+> Google老三篇 , Lamport论文
 
-MapReduce : Simplified Data Processing on Large Clusters 04OSDI
+**MapReduce** : Simplified Data Processing on Large Clusters 04OSDI
 
 Jeffrey Dean and Sanjay Ghemawat
 
-https://blog.csdn.net/active1001/article/details/1675920
+[https://blog.csdn.net/active1001/article/details/1675920](https://blog.csdn.net/active1001/article/details/1675920)
 
-GFS
+**GFS**
 
 For atomic rename is important for Mapreduce
 
@@ -68,9 +68,23 @@ The Google File System
 
 Sanjay Ghemawat, Howard Gobioff, and Shun-Tak Leung Google 03SOSP
 
-http://mpaxos.com/teaching/ds/20fa/readings/gfs.pdf
+[http://mpaxos.com/teaching/ds/20fa/readings/gfs.pdf](http://mpaxos.com/teaching/ds/20fa/readings/gfs.pdf)
 
-https://segmentfault.com/a/1190000023309479
+[https://segmentfault.com/a/1190000023309479](https://segmentfault.com/a/1190000023309479)
+
+**Big Table**
+
+http://arthurchiao.art/blog/google-bigtable-zh/
+
+#### Lamport论文
+
+logical clock
+
+paxos
+
+multi paxos
+
+raft
 
 
 

@@ -44,9 +44,33 @@
 
 * Gitbook版 - [https://mit-public-courses-cn-translatio.gitbook.io/mit6-824/](https://mit-public-courses-cn-translatio.gitbook.io/mit6-824/)
 
-学生指南 - https://thesquareplanet.com/blog/students-guide-to-raft/
+学生指南 - [https://thesquareplanet.com/blog/students-guide-to-raft/](https://thesquareplanet.com/blog/students-guide-to-raft/)
 
-* 掘金翻译版 - https://juejin.cn/post/6865538652961767431
+* 掘金翻译版 - [https://juejin.cn/post/6865538652961767431](https://juejin.cn/post/6865538652961767431)
 
 相关开源书DDIA - [https://github.com/Vonng/ddia](https://github.com/Vonng/ddia)
+
+#### 其他文献
+
+Google老三篇
+
+MapReduce : Simplified Data Processing on Large Clusters 04OSDI
+
+Jeffrey Dean and Sanjay Ghemawat
+
+https://blog.csdn.net/active1001/article/details/1675920
+
+GFS
+
+For atomic rename is important for Mapreduce
+
+The Google File System
+
+Sanjay Ghemawat, Howard Gobioff, and Shun-Tak Leung Google 03SOSP
+
+http://mpaxos.com/teaching/ds/20fa/readings/gfs.pdf
+
+https://segmentfault.com/a/1190000023309479
+
+
 

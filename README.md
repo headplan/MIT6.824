@@ -1,3 +1,8 @@
-# My Awesome Book
+# MIT6.824
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+MIT著名课程 - 6.824 - Distributed Systems 分布式系统
+
+课程主页 - https://pdos.csail.mit.edu/6.824/index.html
+
+课程安排 - https://pdos.csail.mit.edu/6.824/schedule.html
+

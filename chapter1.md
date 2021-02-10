@@ -58,9 +58,9 @@
 
 Jeffrey Dean and Sanjay Ghemawat
 
-https://pdos.csail.mit.edu/6.824/papers/mapreduce.pdf
+[https://pdos.csail.mit.edu/6.824/papers/mapreduce.pdf](https://pdos.csail.mit.edu/6.824/papers/mapreduce.pdf)
 
-[https://blog.csdn.net/active1001/article/details/1675920](https://blog.csdn.net/active1001/article/details/1675920)
+[https://blog.csdn.net/active1001/article/details/1675920](https://blog.csdn.net/harrytsz/article/details/82085043)
 
 **GFS**
 

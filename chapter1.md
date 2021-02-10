@@ -58,6 +58,8 @@
 
 Jeffrey Dean and Sanjay Ghemawat
 
+https://pdos.csail.mit.edu/6.824/papers/mapreduce.pdf
+
 [https://blog.csdn.net/active1001/article/details/1675920](https://blog.csdn.net/active1001/article/details/1675920)
 
 **GFS**
@@ -86,7 +88,7 @@ Sanjay Ghemawat, Howard Gobioff, and Shun-Tak Leung Google 03SOSP
 
 [http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)
 
-https://juejin.cn/post/6844903683788898312
+[https://juejin.cn/post/6844903683788898312](https://juejin.cn/post/6844903683788898312)
 
 **raft**
 
